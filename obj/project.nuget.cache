@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2J/1xg6AuMXHh1FjjE6j02qeTLVIwI+xAMVvSzORZRFq/83GW3qmkcnEQnb3EkDeGEs94bqh1VHWvT6jzx/cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikol\\source\\repos\\Практическая работа №6\\Практическая работа №6\\Практическая работа №6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
